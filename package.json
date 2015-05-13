@@ -1,7 +1,7 @@
 {
   "name": "https-only",
   "title": "https-only",
-  "id": "jid1-v8zuVDTZ873mAQ",
+  "id": "jid1-v8zuVDTZ873mAQ@jetpack",
   "description": "Toggle blocking of all non https requests",
   "author": "dbyrne",
   "license": "GNU GPL v3+",
@@ -9,6 +9,7 @@
   "icon":"data/images/icon.png",
   "icon64":"data/images/icon_on64.png",
   "version": "1.0",
+  "main":"lib/main.js",
   "preferences": [
   {
 	 "name": "enabled",
